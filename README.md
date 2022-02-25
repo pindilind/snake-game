@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# SNAKE GAME IN REACTJS
+
+Made a snake-game in react using tutorial
+
+Link To YouTube Tutorial: https://www.youtube.com/watch?v=-oOgsGP3t5o
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
