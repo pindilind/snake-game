@@ -16,6 +16,10 @@ Made a snake-game in react using tutorial <br><br>
 <h2>Link To YouTube Tutorial:</h2>
 <pre> https://www.youtube.com/watch?v=-oOgsGP3t5o </pre>
 
+
+Languages
+<pre> JAVASCRIPT, CSS </pre><br>
+
 <h2>Licens</h2>
 See The MIT License. <br> <br>
 
